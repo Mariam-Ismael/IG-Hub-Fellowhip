@@ -1,0 +1,148 @@
+.ho{
+    background-color: tomato;
+    color: gray;
+    text-decoration: none;
+    margin: 14px 12px 14px 8px;
+    font-family: sans-serif;
+    border-style: solid collapse;
+    border-width: 2px;
+    border-radius: 2px;
+    border-width: 5%;
+}
+
+.top{
+    background-color: tomato;
+}
+nav{
+    background-color: tomato;
+    padding: 7px 7px 5px 8px;
+}
+
+a:hover{
+    background-color: white;
+}
+.h{
+    background-color: tomato;
+}
+
+#start{
+    color: white;
+    padding-top: 15px;
+    font-family: sans-serif;
+    margin-left: 350px;
+}
+
+#template{
+    margin-left: 395px;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.button{
+    margin-left: 415px;
+    background-color:tomato;
+    color: white;
+    padding-bottom: 60px;
+    font-family: sans-serif;
+}
+
+.top{
+    background-color: tomato;
+}
+
+.mid{
+    background-color: tomato;
+}
+
+h3{
+    margin-left: 75px ;
+    font-family: sans-serif;
+}
+
+.first{
+    margin-left: 75px;
+    font-family: sans-serif;
+    font-size: small;
+    text-align: justify;
+}
+
+div.image{
+    display: block;
+    position: relative;
+    top: -250px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    float: right; 
+    overflow: auto; 
+}
+.second{
+    margin-left: 75px;
+    color: gray;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.head{
+    margin-left: 350px;
+    text-align: justify;
+}
+
+.third{
+    margin-left: 350px;
+    text-align: justify;
+    
+}
+
+.fourth{
+    margin-left: 350px;
+    color: rgb(204, 180, 180);
+
+}
+
+.gray{
+    background-color: rgb(243, 237, 237);
+    margin-top: 65px;
+    margin-bottom: 85px;
+    font-family: sans-serif;
+    font-size: small;
+    padding-top: 65px;
+    padding-bottom: 85px;
+}
+
+.quote{
+    background-color: gray;
+    color: white;
+    margin-top: 20px;
+    text-align: start;
+    margin-left: 50px; 
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;  
+}
+
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+div.img{
+    display: block;
+    position: relative;
+    top: -260px;
+    margin-left: 50px;
+    width: 50%; 
+    float: left;
+    opacity: 30px;  
+}
+
+.power{
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    margin-right: 138px;
+}
