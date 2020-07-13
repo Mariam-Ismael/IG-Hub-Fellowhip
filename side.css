@@ -1,0 +1,143 @@
+body{
+    background-color: lightgray;
+}
+
+#home{
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar, main{
+    margin: 30px 30px;
+}
+
+div.main{
+    margin-top: 60px;
+}
+
+.sidebar ul{
+    list-style: none;
+    text-align: start;
+    padding-top: 10px;
+    
+}
+
+.sidebar ul li{
+    cursor: pointer;
+    padding: 5px;
+    border-bottom: 2px solid gray;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 50px;
+}
+.span-1{
+    margin-left: 295px;
+
+}
+
+.icon{
+    margin-left: 550px;
+}
+
+
+.circle{
+    margin-left: 7px;
+}
+
+.span-2{
+    border-left: 1px solid black;
+    padding: 5px;
+    border-color: white;
+    margin-right: 2px;
+
+}
+
+.section{
+    color: white;
+    background-color: rgb(60, 60, 218);
+    padding: 15px ;
+}
+
+ul.statistics li{
+    padding: 10px 10px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    border-style: none;
+
+}
+
+ul.statistics li span{
+    display: block;
+}
+
+ul.statistics li:last-child{
+    color: rgb(10, 192, 10);
+}
+
+ul.statistics li span:last-child{
+    color: black;
+}
+
+.content{
+   padding: 15px;
+    border: 3px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
+
+button.edit-btn{
+    cursor: pointer;
+    background-color: rgb(60, 60, 218);
+    margin-right: 20px;
+    border-radius: 4px;
+    width: 250px;
+    border-style: none;
+    padding: 15px;
+    margin-left: 50px;
+    color: white;
+}
+
+.train{
+    background-color: rgb(60, 60, 218);
+}
+
+li.booked{
+    padding: 20px;
+    margin: 10px 5px 10px 5px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 5px;
+    border-style: none;
+    width: 140px;
+}
+
+li.approved{
+    padding: 20px;
+    margin: 10px 5px 10px 5px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 5px;
+    border-style: none;
+    width: 150px;
+}
+
+li.earnings{
+    padding: 20px;
+    margin: 10px 5px 10px 5px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 5px;
+    border-style: none;
+    width: 120px;
+}
+
+footer{
+    background-color: rgb(60, 60, 218);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
