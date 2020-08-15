@@ -1,0 +1,226 @@
+*{
+    box-sizing: border-box;
+}
+
+.my{
+    background-image: url("./images/ni.jpg");
+    height: 200%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.approach-2{
+    margin-left: 9%;
+}
+
+.approach-3{
+    padding-top: 10%;
+}
+
+.waste{
+    margin-left: 7%;
+}
+
+.rule{
+    margin-left: 6%;
+    margin-right: 3%;
+}
+
+.full{
+    padding-top: 6%;
+    margin-left: 3%;
+}
+
+.menstrual{
+    margin-left: 15%;
+}
+
+.bundle, .wipes{
+    margin-left: 35%;
+}
+
+.carrying{
+    margin-left: 30%;
+}
+
+.btn-3{
+    border: 1px solid lightgray;
+    width: 235px;
+    height: 60px;
+    background-color: white;
+    margin-left: 10%;
+}
+
+.swap{
+    padding-top: 9%;
+    margin-left: 7%;
+}
+
+.practice-2{
+    padding-top: 10%;
+    margin-left: 8%;
+}
+
+.here{
+    padding-bottom: 6%;
+}
+
+.faq{
+    margin-left: 4%;
+
+}
+
+.here-2{
+    margin-left: 10%;
+    padding-top: 10%;
+}
+
+.iframe{
+    margin-left: 1%;
+}
+
+.screenshot{
+    margin-left: 9%;
+}
+
+
+.care{
+    margin: 7%;
+}
+
+.clock, .suction, .stars{
+    margin-left: 7%;
+}
+
+.sit-2{
+    margin-left: 7%;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: lightgray;
+    text-decoration: none;
+}
+
+.btn-1, .btn-2, .btn-4, .btn-5, .btn-6{
+    width: 220px;
+    height: 60px;
+    background-color: white;
+    border: none;
+}
+
+
+.btn-1:hover, .btn-2:hover, .btn-3:hover, .btn-3:hover, .btn-4:hover, .btn-5:hover, .btn-6:hover{
+    background-color: lightgrey;
+}
+
+.approach, .practice{
+    background-color: #e4ed54;
+}
+
+.hands{
+    background-color: goldenrod;
+}
+
+.email{
+    width: 220px;
+    height: 60px;
+    background-color: white;
+    border: none;
+}
+
+.subscribe{
+    width: 80px;
+    height: 60px;
+    background-color: white;
+    border: none;
+}
+
+.sit, .here, footer{
+    background-color: rgb(250, 233, 221);
+}
+
+.quote{
+    background-color: rgb(250, 233, 221);
+    margin-top: 4%;
+    padding-bottom: 8%;
+}
+
+.jenny{
+    margin-left: 28%;
+    margin-right: 16%;
+}
+
+.shop{
+    border-style: none;
+}
+
+.pop{
+    margin-left: 32%;
+}
+
+.rule-2{
+    margin-right: 16%;
+    background-color: red;
+}
+
+.standard{
+    padding-bottom: 7%;
+    padding-top: 5%;
+}
+
+.standard-2{
+    margin-left: 5%;
+}
+
+.standard-3{
+    padding-top: 7%;
+}
+
+.fda{
+ padding-left: 6%;   
+}
+
+.canada, .made{
+    padding-left: 5%;   
+   }
+
+.fda-2, .canada-2, .made-2{
+    margin-top: 3%;
+}
+
+.footer{
+    padding-left: 1%;
+}
+
+.fill{
+    padding-left: 232%;
+}
+
+.f-fda{
+    margin-left: 4%;
+}
+
+.f-f{
+    padding-bottom: 3%;
+}
+
+.email{
+    padding-left: 2%;
+}
+
+.link{
+    width: 15%;
+    padding-left: 5%;
+}
+
+.nav{
+    padding-top: 2%;   
+}
+
+.fb, .tw, .pin, .ig{
+    margin-left: 1%;
+}
